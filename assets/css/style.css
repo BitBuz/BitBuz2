@@ -1,5 +1,6 @@
 .head {
     background-color: lightgray; 
+    color: white;
     text-align: center; 
     padding: 5px;
 }
@@ -13,6 +14,6 @@
 h4 {
     text-align: center
 }
-.about {
+header {height: 100px;
 
 }
