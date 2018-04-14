@@ -14,6 +14,10 @@
 h4 {
     text-align: center
 }
-header {height: 100px;
+header {
+    height: 100px;
 
+}
+.email {
+    color: white
 }

@@ -36,7 +36,7 @@ fetch(req)
                 Aurl.css("padding", "10px"); 
                 var image = $("<img>");
                 image.attr("src", response.articles[i].urlToImage);
-                image.css("width", "25%");         
+                image.css("width", "15%");         
                 var space = $("<p>");
                 space.css("height", "3%");
                 newdiv.prepend("<p>");
