@@ -1,0 +1,18 @@
+.head {
+    background-color: lightgray; 
+    text-align: center; 
+    padding: 5px;
+}
+.charted {
+    margin-left: 40% !important;
+    margin-right: auto !important;
+}
+.jumbotron {
+    padding: 10px;
+}
+h4 {
+    text-align: center
+}
+.about {
+
+}
